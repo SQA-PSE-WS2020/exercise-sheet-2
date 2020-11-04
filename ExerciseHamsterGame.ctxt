@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExerciseHamsterGame
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MyFirstSimpleHamster.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=ExerciseHamsterGame()
+comment2.params=
+comment2.target=de.unistuttgart.iste.rss.oo.hamstersimulator.external.model.Hamster\ getHamster()
+numComments=3
